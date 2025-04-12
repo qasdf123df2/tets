@@ -1,4 +1,5 @@
-Serial.begin(9600);  // Скорость 9600 бод
+void setup(){
+  Serial.begin(9600);  // Скорость 9600 бод
 }
 
 void loop() {
